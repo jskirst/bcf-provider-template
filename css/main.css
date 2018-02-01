@@ -1,0 +1,74 @@
+body,h1,h2,h3,h4,h5,h6,p,div,span,a,button,.btn {
+  font-family: "Bitter", "Helvetica Neue", Arial, sans-serif;
+}
+
+img.navbar-brand {
+  max-width: 50%;
+  max-height: 150px;
+}
+
+.navbar {
+  font-size: 1.25rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.6rem;
+  padding-left: 0.6rem;
+}
+
+#headline {
+  background-color: rgba(86,205,157,0.65);
+}
+
+#aboutus {
+  background-color: rgba(243, 150, 154, 0.65);
+  min-height: 400px;
+  padding: 20px;
+}
+
+#enrollment {
+  background-color: rgba(108, 195, 213, 0.65);
+  min-height: 400px;
+  padding: 20px;
+}
+
+#tuition {
+  background-color: rgba(255, 120, 81, 0.65);
+  padding: 20px;
+}
+
+#contactus {
+  background-color: rgba(255, 206, 103, 0.65);
+  min-height: 400px;
+  padding: 20px;
+}
+
+#footer {
+  background-color: rgba(111, 66, 193, 0.65);
+  color: white;
+}
+
+iframe {
+  height:100%;
+  width: 100%;
+}
+
+.jumbotron {
+  padding: 1rem;
+  text-align: center;
+}
+
+.no-decorate {
+  text-decoration: none;
+  color: inherit;
+}
+
+.map-container {
+  max-height: 550px;
+  padding-bottom: 20px;
+}
+
+.map {
+  border: 10px solid var(--green);
+}
+
