@@ -3,8 +3,24 @@ body,h1,h2,h3,h4,h5,h6,p,div,span,a,button,.btn {
 }
 
 img.navbar-brand {
-  max-width: 50%;
-  max-height: 150px;
+  max-height: 100px;
+  max-width: 60%;
+}
+
+.section {
+  padding: 15px;
+}
+
+.color-1 {
+  color: rgb(76,169,217);
+}
+
+.color-2 {
+  color: rgb(247, 194, 87);
+}
+
+.color-3 {
+  color: rgb(160,86,84);
 }
 
 .navbar {
@@ -22,25 +38,18 @@ img.navbar-brand {
 
 #aboutus {
   background-color: rgba(243, 150, 154, 0.65);
-  min-height: 400px;
-  padding: 20px;
 }
 
 #enrollment {
   background-color: rgba(108, 195, 213, 0.65);
-  min-height: 400px;
-  padding: 20px;
 }
 
 #tuition {
   background-color: rgba(255, 120, 81, 0.65);
-  padding: 20px;
 }
 
 #contactus {
   background-color: rgba(255, 206, 103, 0.65);
-  min-height: 400px;
-  padding: 20px;
 }
 
 #footer {
